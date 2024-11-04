@@ -1,93 +1,123 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder (2)\\webtruyen\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtruyen\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder (2)\\webtruyen\\views\\comics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\comics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder (2)\\webtruyen\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder (2)\\webtruyen\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder (2)\\webtruyen\\wwwroot\\css\\dangnhap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:wwwroot\\css\\dangnhap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder (2)\\webtruyen\\views\\home\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\home\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder (2)\\webtruyen\\views\\home\\dangxuat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\home\\dangxuat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder (2)\\webtruyen\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder (2)\\webtruyen\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder (2)\\webtruyen\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder (2)\\webtruyen\\wwwroot\\icon-search\\search-icon-free-vector.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:wwwroot\\icon-search\\search-icon-free-vector.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder (2)\\webtruyen\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder (2)\\webtruyen\\controllers\\comicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtruyen\\controllers\\comicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:controllers\\comicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder (2)\\webtruyen\\models\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtruyen\\views\\comics\\_searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\comics\\_searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtruyen\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtruyen\\models\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:models\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder (2)\\webtruyen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtruyen\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder (2)\\webtruyen\\views\\comics\\chapter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\comics\\chapter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtruyen\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder (2)\\webtruyen\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtruyen\\views\\comics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\comics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder (2)\\webtruyen\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtruyen\\views\\home\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\home\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder (2)\\webtruyen\\views\\comics\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtruyen\\views\\home\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\home\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtruyen\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtruyen\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\SourceServer\\9282e427340a41c5b30738f34cd23ce0bdb728144b1e035e680f34e5b15ffd26\\src\\Mvc\\Mvc.Razor\\src\\RazorView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtruyen\\views\\home\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\home\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtruyen\\views\\comics\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\comics\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Home\\Hot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\Hot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtruyen\\views\\home\\dangxuat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\home\\dangxuat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Home\\StyleSheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtruyen\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtruyen\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtruyen\\views\\comics\\chapter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\comics\\chapter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtruyen\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\SourceServer\\269c97b84b1cdec2fa0bec2d12805e984b052ce83564e9577d2171524a2f0484\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtruyen\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtruyen\\wwwroot\\css\\dangnhap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:wwwroot\\css\\dangnhap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtruyen\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtruyen\\wwwroot\\icon-search\\search-icon-free-vector.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:wwwroot\\icon-search\\search-icon-free-vector.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtruyen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtruyen\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtruyen\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Home\\StyleSheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\StyleSheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Home\\_DangNhap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Home\\_DangNhap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\_DangNhap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -98,29 +128,120 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-01T06:58:17.172Z"
+              "DocumentIndex": 2,
+              "Title": "_SearchResults.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Comics\\_SearchResults.cshtml",
+              "RelativeDocumentMoniker": "Views\\Comics\\_SearchResults.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Comics\\_SearchResults.cshtml",
+              "RelativeToolTip": "Views\\Comics\\_SearchResults.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T17:38:49.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:01:46.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Comics\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Comics\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Comics\\Detail.cshtml",
+              "RelativeToolTip": "Views\\Comics\\Detail.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T07:09:13.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:23:36.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:53:10.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Comics\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Comics\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Comics\\Index.cshtml",
+              "RelativeToolTip": "Views\\Comics\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T03:30:27.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DangNhap.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Home\\DangNhap.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\DangNhap.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Home\\DangNhap.cshtml",
+              "RelativeToolTip": "Views\\Home\\DangNhap.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:18:29.784Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAACUAAAAZAAAA",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-01T07:33:20.08Z",
               "EditorCaption": ""
@@ -128,242 +249,287 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "DangXuat.cshtml",
-              "DocumentMoniker": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Home\\DangXuat.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\DangXuat.cshtml",
-              "ToolTip": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Home\\DangXuat.cshtml",
-              "RelativeToolTip": "Views\\Home\\DangXuat.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-03T07:33:24.072Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DangNhap.cshtml",
-              "DocumentMoniker": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Home\\DangNhap.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\DangNhap.cshtml",
-              "ToolTip": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Home\\DangNhap.cshtml",
-              "RelativeToolTip": "Views\\Home\\DangNhap.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-03T07:33:07.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAswAUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T03:01:46.525Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAIwK4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-03T07:11:05.34Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DangNhap.css",
-              "DocumentMoniker": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\wwwroot\\css\\DangNhap.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\DangNhap.css",
-              "ToolTip": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\wwwroot\\css\\DangNhap.css",
-              "RelativeToolTip": "wwwroot\\css\\DangNhap.css",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-04T04:20:23.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T03:02:06.107Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Hot.cshtml",
-              "DocumentMoniker": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Home\\Hot.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Hot.cshtml",
-              "ToolTip": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Home\\Hot.cshtml",
-              "RelativeToolTip": "Views\\Home\\Hot.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-03T07:30:21.364Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "StyleSheet.css",
-              "DocumentMoniker": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Home\\StyleSheet.css",
-              "RelativeDocumentMoniker": "Views\\Home\\StyleSheet.css",
-              "ToolTip": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Home\\StyleSheet.css",
-              "RelativeToolTip": "Views\\Home\\StyleSheet.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-04T04:12:51.436Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_DangNhap.css",
-              "DocumentMoniker": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Home\\_DangNhap.css",
-              "RelativeDocumentMoniker": "Views\\Home\\_DangNhap.css",
-              "ToolTip": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Home\\_DangNhap.css",
-              "RelativeToolTip": "Views\\Home\\_DangNhap.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-04T04:13:28.581Z"
+              "WhenOpened": "2024-11-01T06:58:17.172Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Comics\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Comics\\Index.cshtml",
-              "ToolTip": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Comics\\Index.cshtml",
-              "RelativeToolTip": "Views\\Comics\\Index.cshtml",
-              "ViewState": "AQIAAL4AAAAAAAAAAAAuwNQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T03:30:27.328Z"
+              "Title": "ComicsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Controllers\\ComicsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ComicsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Controllers\\ComicsController.cs",
+              "RelativeToolTip": "Controllers\\ComicsController.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAgwJYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:28:46.544Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T07:34:52.967Z"
+              "DocumentIndex": 4,
+              "Title": "Comic.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Models\\Comic.cs",
+              "RelativeDocumentMoniker": "Models\\Comic.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Models\\Comic.cs",
+              "RelativeToolTip": "Models\\Comic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:28:08.414Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "search-icon-free-vector.jpg - Bitmap [200x200, 8 bit, JPG]",
-              "DocumentMoniker": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\wwwroot\\Icon-search\\search-icon-free-vector.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\Icon-search\\search-icon-free-vector.jpg",
-              "ToolTip": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\wwwroot\\Icon-search\\search-icon-free-vector.jpg - Bitmap [200x200, 8 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\Icon-search\\search-icon-free-vector.jpg - Bitmap [200x200, 8 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-11-04T04:02:56.063Z",
-              "EditorCaption": " - Bitmap [200x200, 8 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Comic.cs",
-              "DocumentMoniker": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Models\\Comic.cs",
-              "RelativeDocumentMoniker": "Models\\Comic.cs",
-              "ToolTip": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Models\\Comic.cs",
-              "RelativeToolTip": "Models\\Comic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T03:28:08.414Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ComicsController.cs",
-              "DocumentMoniker": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Controllers\\ComicsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ComicsController.cs",
-              "ToolTip": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Controllers\\ComicsController.cs",
-              "RelativeToolTip": "Controllers\\ComicsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T03:28:46.544Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T03:01:43.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Comics\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Views\\Comics\\Detail.cshtml",
-              "ToolTip": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Comics\\Detail.cshtml",
-              "RelativeToolTip": "Views\\Comics\\Detail.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T07:09:13.735Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAArwCkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T03:31:02.805Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Chapter.cshtml",
-              "DocumentMoniker": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Comics\\Chapter.cshtml",
-              "RelativeDocumentMoniker": "Views\\Comics\\Chapter.cshtml",
-              "ToolTip": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\Comics\\Chapter.cshtml",
-              "RelativeToolTip": "Views\\Comics\\Chapter.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T07:14:01.083Z"
+              "WhenOpened": "2024-11-04T13:12:36.368Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:01:43.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DangXuat.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Home\\DangXuat.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\DangXuat.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Home\\DangXuat.cshtml",
+              "RelativeToolTip": "Views\\Home\\DangXuat.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T03:01:56.886Z"
+              "WhenOpened": "2024-11-03T07:33:24.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Home\\User.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\User.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Home\\User.cshtml",
+              "RelativeToolTip": "Views\\Home\\User.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T14:55:22.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RazorView.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\SourceServer\\9282e427340a41c5b30738f34cd23ce0bdb728144b1e035e680f34e5b15ffd26\\src\\Mvc\\Mvc.Razor\\src\\RazorView.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\9282e427340a41c5b30738f34cd23ce0bdb728144b1e035e680f34e5b15ffd26\\src\\Mvc\\Mvc.Razor\\src\\RazorView.cs",
+              "ToolTip": "C:\\Users\\Admin\\AppData\\Local\\SourceServer\\9282e427340a41c5b30738f34cd23ce0bdb728144b1e035e680f34e5b15ffd26\\src\\Mvc\\Mvc.Razor\\src\\RazorView.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\9282e427340a41c5b30738f34cd23ce0bdb728144b1e035e680f34e5b15ffd26\\src\\Mvc\\Mvc.Razor\\src\\RazorView.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAApwJQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:22:01.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Chapter.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Comics\\Chapter.cshtml",
+              "RelativeDocumentMoniker": "Views\\Comics\\Chapter.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Comics\\Chapter.cshtml",
+              "RelativeToolTip": "Views\\Comics\\Chapter.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T07:14:01.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Home\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\DangKy.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Home\\DangKy.cshtml",
+              "RelativeToolTip": "Views\\Home\\DangKy.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T14:18:21.845Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T03:01:55.118Z"
+              "WhenOpened": "2024-11-01T03:02:06.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T13:02:36.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WebApplicationBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\SourceServer\\269c97b84b1cdec2fa0bec2d12805e984b052ce83564e9577d2171524a2f0484\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\269c97b84b1cdec2fa0bec2d12805e984b052ce83564e9577d2171524a2f0484\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
+              "ToolTip": "C:\\Users\\Admin\\AppData\\Local\\SourceServer\\269c97b84b1cdec2fa0bec2d12805e984b052ce83564e9577d2171524a2f0484\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\269c97b84b1cdec2fa0bec2d12805e984b052ce83564e9577d2171524a2f0484\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:26:01.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_DangNhap.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Home\\_DangNhap.css",
+              "RelativeDocumentMoniker": "Views\\Home\\_DangNhap.css",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Home\\_DangNhap.css",
+              "RelativeToolTip": "Views\\Home\\_DangNhap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-04T04:13:28.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Home\\StyleSheet.css",
+              "RelativeDocumentMoniker": "Views\\Home\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Home\\StyleSheet.css",
+              "RelativeToolTip": "Views\\Home\\StyleSheet.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-04T04:12:51.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DangNhap.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\wwwroot\\css\\DangNhap.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\DangNhap.css",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\wwwroot\\css\\DangNhap.css",
+              "RelativeToolTip": "wwwroot\\css\\DangNhap.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwDQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-04T04:20:23.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-03T07:11:05.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T07:34:52.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "search-icon-free-vector.jpg - Bitmap [200x200, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\wwwroot\\Icon-search\\search-icon-free-vector.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\Icon-search\\search-icon-free-vector.jpg",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\wwwroot\\Icon-search\\search-icon-free-vector.jpg - Bitmap [200x200, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\Icon-search\\search-icon-free-vector.jpg - Bitmap [200x200, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-04T04:02:56.063Z",
+              "EditorCaption": " - Bitmap [200x200, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAArwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:31:02.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T03:01:56.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T03:01:55.118Z",
+              "EditorCaption": ""
             }
           ]
         }

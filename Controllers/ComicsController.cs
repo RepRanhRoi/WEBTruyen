@@ -3,15 +3,17 @@ using WebTruyen.Models;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Data.SqlClient;
 
 namespace WebTruyen.Controllers
 {
     public class ComicsController : Controller
     {
         private readonly string _comicsDirectory;
-
-        public ComicsController(IWebHostEnvironment env)
+        private readonly string _connectionString;
+        public ComicsController(IWebHostEnvironment env, IConfiguration configuration)
         {
+            _connectionString = configuration.GetConnectionString("DefaultConnection");
             _comicsDirectory = Path.Combine(env.WebRootPath, "comic");
         }
 
@@ -101,8 +103,53 @@ namespace WebTruyen.Controllers
 
             return View(comicModel);
         }
+        [HttpGet]
+        public IActionResult Search(string query)
+        {
+            var comics = new List<Comic>();
+            var cmcs = new List<string>();
 
 
+            using (var connection = new SqlConnection(_connectionString))
+            {
+                connection.Open();
+                using (var command = new SqlCommand("SELECT TENTRUYEN FROM TRUYEN WHERE TENTRUYEN LIKE %@tentruyen%", connection))
+                {
+                    command.Parameters.AddWithValue("@tentruyen", query);
 
+                    using (var reader = command.ExecuteReader())
+                    {
+                        while (reader.Read())
+                        {
+                            cmcs.Add(reader.GetString(0));
+                        }
+                        connection.Close();
+                    }
+                }
+            }
+            foreach (var item in cmcs)
+            {
+                var path = Path.Combine(_comicsDirectory, item);
+                if (!Directory.Exists(path))
+                {
+
+                }
+                else
+                {
+                    Comic comic = new Comic
+                    {
+                        Title = item,
+                        Cover = $"/comic/{item}/0.jpg",
+
+                    };
+                    comics.Add(comic);
+                }
+
+              
+            }
+
+            return View("_SearchResults", comics);
+
+        }
     }
 }

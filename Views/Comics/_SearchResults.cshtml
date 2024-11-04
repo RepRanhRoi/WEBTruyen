@@ -1,0 +1,9 @@
+﻿@model IEnumerable<Comic>
+
+@foreach (var comic in Model)
+{
+    <li class="comic-list-item">
+        <img class="comic-image" src="@comic.Cover" alt="@comic.Title" />
+        <a href="/Comics/Detail?title=@comic.Title">@comic.Title</a>
+    </li>
+}

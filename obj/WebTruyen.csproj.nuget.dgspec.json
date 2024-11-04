@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\WebTruyen.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\WebTruyen.csproj": {}
   },
   "projects": {
-    "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\WebTruyen.csproj": {
+    "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\WebTruyen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\WebTruyen.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\WebTruyen.csproj",
         "projectName": "WebTruyen",
-        "projectPath": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\WebTruyen.csproj",
-        "packagesPath": "C:\\Users\\MACON\\.nuget\\packages\\",
-        "outputPath": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\WebTruyen.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WEBTruyen\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\MACON\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -49,6 +49,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -68,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

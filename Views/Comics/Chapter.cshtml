@@ -68,7 +68,7 @@
         </button>
 
         <button class="nav-button" onclick="location.href='/Comics/Chapter?title=@Model.Title&chapter=chap@(Model.CurrentChapterIndex + 1)'"
-        @(Model.Images.Count == 0 ? "disabled" : "")>
+        @(Model.Images.Count == 0  ? "disabled" : "")>
             Chap tiếp theo
         </button>
     </div>
