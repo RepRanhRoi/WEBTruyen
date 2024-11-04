@@ -1,0 +1,185 @@
+C:\Cong nghe web\50\WebTruyen\bin\Debug\net8.0\appsettings.Development.json
+C:\Cong nghe web\50\WebTruyen\bin\Debug\net8.0\appsettings.json
+C:\Cong nghe web\50\WebTruyen\bin\Debug\net8.0\WebTruyen.staticwebassets.runtime.json
+C:\Cong nghe web\50\WebTruyen\bin\Debug\net8.0\WebTruyen.exe
+C:\Cong nghe web\50\WebTruyen\bin\Debug\net8.0\WebTruyen.deps.json
+C:\Cong nghe web\50\WebTruyen\bin\Debug\net8.0\WebTruyen.runtimeconfig.json
+C:\Cong nghe web\50\WebTruyen\bin\Debug\net8.0\WebTruyen.dll
+C:\Cong nghe web\50\WebTruyen\bin\Debug\net8.0\WebTruyen.pdb
+C:\Cong nghe web\50\WebTruyen\obj\Debug\net8.0\WebTruyen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cong nghe web\50\WebTruyen\obj\Debug\net8.0\WebTruyen.AssemblyInfoInputs.cache
+C:\Cong nghe web\50\WebTruyen\obj\Debug\net8.0\WebTruyen.AssemblyInfo.cs
+C:\Cong nghe web\50\WebTruyen\obj\Debug\net8.0\WebTruyen.csproj.CoreCompileInputs.cache
+C:\Cong nghe web\50\WebTruyen\obj\Debug\net8.0\WebTruyen.MvcApplicationPartsAssemblyInfo.cache
+C:\Cong nghe web\50\WebTruyen\obj\Debug\net8.0\WebTruyen.RazorAssemblyInfo.cache
+C:\Cong nghe web\50\WebTruyen\obj\Debug\net8.0\WebTruyen.RazorAssemblyInfo.cs
+C:\Cong nghe web\50\WebTruyen\obj\Debug\net8.0\staticwebassets.build.json
+C:\Cong nghe web\50\WebTruyen\obj\Debug\net8.0\staticwebassets.development.json
+C:\Cong nghe web\50\WebTruyen\obj\Debug\net8.0\staticwebassets\msbuild.WebTruyen.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Cong nghe web\50\WebTruyen\obj\Debug\net8.0\staticwebassets\msbuild.build.WebTruyen.props
+C:\Cong nghe web\50\WebTruyen\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebTruyen.props
+C:\Cong nghe web\50\WebTruyen\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebTruyen.props
+C:\Cong nghe web\50\WebTruyen\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Cong nghe web\50\WebTruyen\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Cong nghe web\50\WebTruyen\obj\Debug\net8.0\scopedcss\bundle\WebTruyen.styles.css
+C:\Cong nghe web\50\WebTruyen\obj\Debug\net8.0\scopedcss\projectbundle\WebTruyen.bundle.scp.css
+C:\Cong nghe web\50\WebTruyen\obj\Debug\net8.0\WebTruyen.dll
+C:\Cong nghe web\50\WebTruyen\obj\Debug\net8.0\refint\WebTruyen.dll
+C:\Cong nghe web\50\WebTruyen\obj\Debug\net8.0\WebTruyen.pdb
+C:\Cong nghe web\50\WebTruyen\obj\Debug\net8.0\WebTruyen.genruntimeconfig.cache
+C:\Cong nghe web\50\WebTruyen\obj\Debug\net8.0\ref\WebTruyen.dll
+C:\Cong nghe web\50\WebTruyen\WebTrom\bin\Debug\net8.0\appsettings.Development.json
+C:\Cong nghe web\50\WebTruyen\WebTrom\bin\Debug\net8.0\appsettings.json
+C:\Cong nghe web\50\WebTruyen\WebTrom\bin\Debug\net8.0\WebTruyen.staticwebassets.runtime.json
+C:\Cong nghe web\50\WebTruyen\WebTrom\bin\Debug\net8.0\WebTruyen.exe
+C:\Cong nghe web\50\WebTruyen\WebTrom\bin\Debug\net8.0\WebTruyen.deps.json
+C:\Cong nghe web\50\WebTruyen\WebTrom\bin\Debug\net8.0\WebTruyen.runtimeconfig.json
+C:\Cong nghe web\50\WebTruyen\WebTrom\bin\Debug\net8.0\WebTruyen.dll
+C:\Cong nghe web\50\WebTruyen\WebTrom\bin\Debug\net8.0\WebTruyen.pdb
+C:\Cong nghe web\50\WebTruyen\WebTrom\obj\Debug\net8.0\WebTruyen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cong nghe web\50\WebTruyen\WebTrom\obj\Debug\net8.0\WebTruyen.AssemblyInfoInputs.cache
+C:\Cong nghe web\50\WebTruyen\WebTrom\obj\Debug\net8.0\WebTruyen.AssemblyInfo.cs
+C:\Cong nghe web\50\WebTruyen\WebTrom\obj\Debug\net8.0\WebTruyen.csproj.CoreCompileInputs.cache
+C:\Cong nghe web\50\WebTruyen\WebTrom\obj\Debug\net8.0\WebTruyen.MvcApplicationPartsAssemblyInfo.cache
+C:\Cong nghe web\50\WebTruyen\WebTrom\obj\Debug\net8.0\WebTruyen.RazorAssemblyInfo.cache
+C:\Cong nghe web\50\WebTruyen\WebTrom\obj\Debug\net8.0\WebTruyen.RazorAssemblyInfo.cs
+C:\Cong nghe web\50\WebTruyen\WebTrom\obj\Debug\net8.0\WebTruyen.sourcelink.json
+C:\Cong nghe web\50\WebTruyen\WebTrom\obj\Debug\net8.0\staticwebassets.build.json
+C:\Cong nghe web\50\WebTruyen\WebTrom\obj\Debug\net8.0\staticwebassets.development.json
+C:\Cong nghe web\50\WebTruyen\WebTrom\obj\Debug\net8.0\staticwebassets\msbuild.WebTruyen.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Cong nghe web\50\WebTruyen\WebTrom\obj\Debug\net8.0\staticwebassets\msbuild.build.WebTruyen.props
+C:\Cong nghe web\50\WebTruyen\WebTrom\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebTruyen.props
+C:\Cong nghe web\50\WebTruyen\WebTrom\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebTruyen.props
+C:\Cong nghe web\50\WebTruyen\WebTrom\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Cong nghe web\50\WebTruyen\WebTrom\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Cong nghe web\50\WebTruyen\WebTrom\obj\Debug\net8.0\scopedcss\bundle\WebTruyen.styles.css
+C:\Cong nghe web\50\WebTruyen\WebTrom\obj\Debug\net8.0\scopedcss\projectbundle\WebTruyen.bundle.scp.css
+C:\Cong nghe web\50\WebTruyen\WebTrom\obj\Debug\net8.0\WebTruyen.dll
+C:\Cong nghe web\50\WebTruyen\WebTrom\obj\Debug\net8.0\refint\WebTruyen.dll
+C:\Cong nghe web\50\WebTruyen\WebTrom\obj\Debug\net8.0\WebTruyen.pdb
+C:\Cong nghe web\50\WebTruyen\WebTrom\obj\Debug\net8.0\WebTruyen.genruntimeconfig.cache
+C:\Cong nghe web\50\WebTruyen\WebTrom\obj\Debug\net8.0\ref\WebTruyen.dll
+d:\STD\Git file\WebTrom\bin\Debug\net8.0\appsettings.Development.json
+d:\STD\Git file\WebTrom\bin\Debug\net8.0\appsettings.json
+d:\STD\Git file\WebTrom\bin\Debug\net8.0\WebTruyen.staticwebassets.runtime.json
+d:\STD\Git file\WebTrom\bin\Debug\net8.0\WebTruyen.exe
+d:\STD\Git file\WebTrom\bin\Debug\net8.0\WebTruyen.deps.json
+d:\STD\Git file\WebTrom\bin\Debug\net8.0\WebTruyen.runtimeconfig.json
+d:\STD\Git file\WebTrom\bin\Debug\net8.0\WebTruyen.dll
+d:\STD\Git file\WebTrom\bin\Debug\net8.0\WebTruyen.pdb
+d:\STD\Git file\WebTrom\obj\Debug\net8.0\WebTruyen.GeneratedMSBuildEditorConfig.editorconfig
+d:\STD\Git file\WebTrom\obj\Debug\net8.0\WebTruyen.AssemblyInfoInputs.cache
+d:\STD\Git file\WebTrom\obj\Debug\net8.0\WebTruyen.AssemblyInfo.cs
+d:\STD\Git file\WebTrom\obj\Debug\net8.0\WebTruyen.csproj.CoreCompileInputs.cache
+d:\STD\Git file\WebTrom\obj\Debug\net8.0\WebTruyen.MvcApplicationPartsAssemblyInfo.cache
+d:\STD\Git file\WebTrom\obj\Debug\net8.0\WebTruyen.RazorAssemblyInfo.cache
+d:\STD\Git file\WebTrom\obj\Debug\net8.0\WebTruyen.RazorAssemblyInfo.cs
+d:\STD\Git file\WebTrom\obj\Debug\net8.0\WebTruyen.sourcelink.json
+d:\STD\Git file\WebTrom\obj\Debug\net8.0\staticwebassets.build.json
+d:\STD\Git file\WebTrom\obj\Debug\net8.0\staticwebassets.development.json
+d:\STD\Git file\WebTrom\obj\Debug\net8.0\staticwebassets\msbuild.WebTruyen.Microsoft.AspNetCore.StaticWebAssets.props
+d:\STD\Git file\WebTrom\obj\Debug\net8.0\staticwebassets\msbuild.build.WebTruyen.props
+d:\STD\Git file\WebTrom\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebTruyen.props
+d:\STD\Git file\WebTrom\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebTruyen.props
+d:\STD\Git file\WebTrom\obj\Debug\net8.0\staticwebassets.pack.json
+d:\STD\Git file\WebTrom\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+d:\STD\Git file\WebTrom\obj\Debug\net8.0\scopedcss\bundle\WebTruyen.styles.css
+d:\STD\Git file\WebTrom\obj\Debug\net8.0\scopedcss\projectbundle\WebTruyen.bundle.scp.css
+d:\STD\Git file\WebTrom\obj\Debug\net8.0\WebTruyen.dll
+d:\STD\Git file\WebTrom\obj\Debug\net8.0\refint\WebTruyen.dll
+d:\STD\Git file\WebTrom\obj\Debug\net8.0\WebTruyen.pdb
+d:\STD\Git file\WebTrom\obj\Debug\net8.0\WebTruyen.genruntimeconfig.cache
+d:\STD\Git file\WebTrom\obj\Debug\net8.0\ref\WebTruyen.dll
+C:\Cong nghe web\New folder\WebTrom\bin\Debug\net8.0\appsettings.Development.json
+C:\Cong nghe web\New folder\WebTrom\bin\Debug\net8.0\appsettings.json
+C:\Cong nghe web\New folder\WebTrom\bin\Debug\net8.0\WebTruyen.staticwebassets.runtime.json
+C:\Cong nghe web\New folder\WebTrom\bin\Debug\net8.0\WebTruyen.exe
+C:\Cong nghe web\New folder\WebTrom\bin\Debug\net8.0\WebTruyen.deps.json
+C:\Cong nghe web\New folder\WebTrom\bin\Debug\net8.0\WebTruyen.runtimeconfig.json
+C:\Cong nghe web\New folder\WebTrom\bin\Debug\net8.0\WebTruyen.dll
+C:\Cong nghe web\New folder\WebTrom\bin\Debug\net8.0\WebTruyen.pdb
+C:\Cong nghe web\New folder\WebTrom\obj\Debug\net8.0\WebTruyen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cong nghe web\New folder\WebTrom\obj\Debug\net8.0\WebTruyen.AssemblyInfoInputs.cache
+C:\Cong nghe web\New folder\WebTrom\obj\Debug\net8.0\WebTruyen.AssemblyInfo.cs
+C:\Cong nghe web\New folder\WebTrom\obj\Debug\net8.0\WebTruyen.csproj.CoreCompileInputs.cache
+C:\Cong nghe web\New folder\WebTrom\obj\Debug\net8.0\WebTruyen.MvcApplicationPartsAssemblyInfo.cache
+C:\Cong nghe web\New folder\WebTrom\obj\Debug\net8.0\WebTruyen.RazorAssemblyInfo.cache
+C:\Cong nghe web\New folder\WebTrom\obj\Debug\net8.0\WebTruyen.RazorAssemblyInfo.cs
+C:\Cong nghe web\New folder\WebTrom\obj\Debug\net8.0\WebTruyen.sourcelink.json
+C:\Cong nghe web\New folder\WebTrom\obj\Debug\net8.0\staticwebassets.build.json
+C:\Cong nghe web\New folder\WebTrom\obj\Debug\net8.0\staticwebassets.development.json
+C:\Cong nghe web\New folder\WebTrom\obj\Debug\net8.0\staticwebassets\msbuild.WebTruyen.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Cong nghe web\New folder\WebTrom\obj\Debug\net8.0\staticwebassets\msbuild.build.WebTruyen.props
+C:\Cong nghe web\New folder\WebTrom\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebTruyen.props
+C:\Cong nghe web\New folder\WebTrom\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebTruyen.props
+C:\Cong nghe web\New folder\WebTrom\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Cong nghe web\New folder\WebTrom\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Cong nghe web\New folder\WebTrom\obj\Debug\net8.0\scopedcss\bundle\WebTruyen.styles.css
+C:\Cong nghe web\New folder\WebTrom\obj\Debug\net8.0\scopedcss\projectbundle\WebTruyen.bundle.scp.css
+C:\Cong nghe web\New folder\WebTrom\obj\Debug\net8.0\WebTruyen.dll
+C:\Cong nghe web\New folder\WebTrom\obj\Debug\net8.0\refint\WebTruyen.dll
+C:\Cong nghe web\New folder\WebTrom\obj\Debug\net8.0\WebTruyen.pdb
+C:\Cong nghe web\New folder\WebTrom\obj\Debug\net8.0\WebTruyen.genruntimeconfig.cache
+C:\Cong nghe web\New folder\WebTrom\obj\Debug\net8.0\ref\WebTruyen.dll
+D:\STD\Git file\WebTrom - Copy\bin\Debug\net8.0\appsettings.Development.json
+D:\STD\Git file\WebTrom - Copy\bin\Debug\net8.0\appsettings.json
+D:\STD\Git file\WebTrom - Copy\bin\Debug\net8.0\WebTruyen.staticwebassets.runtime.json
+D:\STD\Git file\WebTrom - Copy\bin\Debug\net8.0\WebTruyen.exe
+D:\STD\Git file\WebTrom - Copy\bin\Debug\net8.0\WebTruyen.deps.json
+D:\STD\Git file\WebTrom - Copy\bin\Debug\net8.0\WebTruyen.runtimeconfig.json
+D:\STD\Git file\WebTrom - Copy\bin\Debug\net8.0\WebTruyen.dll
+D:\STD\Git file\WebTrom - Copy\bin\Debug\net8.0\WebTruyen.pdb
+D:\STD\Git file\WebTrom - Copy\obj\Debug\net8.0\WebTruyen.GeneratedMSBuildEditorConfig.editorconfig
+D:\STD\Git file\WebTrom - Copy\obj\Debug\net8.0\WebTruyen.AssemblyInfoInputs.cache
+D:\STD\Git file\WebTrom - Copy\obj\Debug\net8.0\WebTruyen.AssemblyInfo.cs
+D:\STD\Git file\WebTrom - Copy\obj\Debug\net8.0\WebTruyen.csproj.CoreCompileInputs.cache
+D:\STD\Git file\WebTrom - Copy\obj\Debug\net8.0\WebTruyen.MvcApplicationPartsAssemblyInfo.cache
+D:\STD\Git file\WebTrom - Copy\obj\Debug\net8.0\WebTruyen.RazorAssemblyInfo.cache
+D:\STD\Git file\WebTrom - Copy\obj\Debug\net8.0\WebTruyen.RazorAssemblyInfo.cs
+D:\STD\Git file\WebTrom - Copy\obj\Debug\net8.0\WebTruyen.sourcelink.json
+D:\STD\Git file\WebTrom - Copy\obj\Debug\net8.0\staticwebassets.build.json
+D:\STD\Git file\WebTrom - Copy\obj\Debug\net8.0\staticwebassets.development.json
+D:\STD\Git file\WebTrom - Copy\obj\Debug\net8.0\staticwebassets\msbuild.WebTruyen.Microsoft.AspNetCore.StaticWebAssets.props
+D:\STD\Git file\WebTrom - Copy\obj\Debug\net8.0\staticwebassets\msbuild.build.WebTruyen.props
+D:\STD\Git file\WebTrom - Copy\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebTruyen.props
+D:\STD\Git file\WebTrom - Copy\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebTruyen.props
+D:\STD\Git file\WebTrom - Copy\obj\Debug\net8.0\staticwebassets.pack.json
+D:\STD\Git file\WebTrom - Copy\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\STD\Git file\WebTrom - Copy\obj\Debug\net8.0\scopedcss\bundle\WebTruyen.styles.css
+D:\STD\Git file\WebTrom - Copy\obj\Debug\net8.0\scopedcss\projectbundle\WebTruyen.bundle.scp.css
+D:\STD\Git file\WebTrom - Copy\obj\Debug\net8.0\WebTruyen.dll
+D:\STD\Git file\WebTrom - Copy\obj\Debug\net8.0\refint\WebTruyen.dll
+D:\STD\Git file\WebTrom - Copy\obj\Debug\net8.0\WebTruyen.pdb
+D:\STD\Git file\WebTrom - Copy\obj\Debug\net8.0\WebTruyen.genruntimeconfig.cache
+D:\STD\Git file\WebTrom - Copy\obj\Debug\net8.0\ref\WebTruyen.dll
+D:\STD\Git file\WebTrom - 2\bin\Debug\net8.0\appsettings.Development.json
+D:\STD\Git file\WebTrom - 2\bin\Debug\net8.0\appsettings.json
+D:\STD\Git file\WebTrom - 2\bin\Debug\net8.0\WebTruyen.staticwebassets.runtime.json
+D:\STD\Git file\WebTrom - 2\bin\Debug\net8.0\WebTruyen.exe
+D:\STD\Git file\WebTrom - 2\bin\Debug\net8.0\WebTruyen.deps.json
+D:\STD\Git file\WebTrom - 2\bin\Debug\net8.0\WebTruyen.runtimeconfig.json
+D:\STD\Git file\WebTrom - 2\bin\Debug\net8.0\WebTruyen.dll
+D:\STD\Git file\WebTrom - 2\bin\Debug\net8.0\WebTruyen.pdb
+D:\STD\Git file\WebTrom - 2\obj\Debug\net8.0\WebTruyen.GeneratedMSBuildEditorConfig.editorconfig
+D:\STD\Git file\WebTrom - 2\obj\Debug\net8.0\WebTruyen.AssemblyInfoInputs.cache
+D:\STD\Git file\WebTrom - 2\obj\Debug\net8.0\WebTruyen.AssemblyInfo.cs
+D:\STD\Git file\WebTrom - 2\obj\Debug\net8.0\WebTruyen.csproj.CoreCompileInputs.cache
+D:\STD\Git file\WebTrom - 2\obj\Debug\net8.0\WebTruyen.MvcApplicationPartsAssemblyInfo.cache
+D:\STD\Git file\WebTrom - 2\obj\Debug\net8.0\WebTruyen.RazorAssemblyInfo.cache
+D:\STD\Git file\WebTrom - 2\obj\Debug\net8.0\WebTruyen.RazorAssemblyInfo.cs
+D:\STD\Git file\WebTrom - 2\obj\Debug\net8.0\WebTruyen.sourcelink.json
+D:\STD\Git file\WebTrom - 2\obj\Debug\net8.0\staticwebassets.build.json
+D:\STD\Git file\WebTrom - 2\obj\Debug\net8.0\staticwebassets.development.json
+D:\STD\Git file\WebTrom - 2\obj\Debug\net8.0\staticwebassets\msbuild.WebTruyen.Microsoft.AspNetCore.StaticWebAssets.props
+D:\STD\Git file\WebTrom - 2\obj\Debug\net8.0\staticwebassets\msbuild.build.WebTruyen.props
+D:\STD\Git file\WebTrom - 2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebTruyen.props
+D:\STD\Git file\WebTrom - 2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebTruyen.props
+D:\STD\Git file\WebTrom - 2\obj\Debug\net8.0\staticwebassets.pack.json
+D:\STD\Git file\WebTrom - 2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\STD\Git file\WebTrom - 2\obj\Debug\net8.0\scopedcss\bundle\WebTruyen.styles.css
+D:\STD\Git file\WebTrom - 2\obj\Debug\net8.0\scopedcss\projectbundle\WebTruyen.bundle.scp.css
+D:\STD\Git file\WebTrom - 2\obj\Debug\net8.0\WebTruyen.dll
+D:\STD\Git file\WebTrom - 2\obj\Debug\net8.0\refint\WebTruyen.dll
+D:\STD\Git file\WebTrom - 2\obj\Debug\net8.0\WebTruyen.pdb
+D:\STD\Git file\WebTrom - 2\obj\Debug\net8.0\WebTruyen.genruntimeconfig.cache
+D:\STD\Git file\WebTrom - 2\obj\Debug\net8.0\ref\WebTruyen.dll

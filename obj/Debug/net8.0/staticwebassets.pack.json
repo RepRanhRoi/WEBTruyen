@@ -1,0 +1,1337 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebTruyen.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebTruyen.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\Icon-search\\search-icon-free-vector.jpg",
+      "PackagePath": "staticwebassets\\Icon-search\\search-icon-free-vector.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (2)\\0.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (2)\\0.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (2)\\chap1\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (2)\\chap1\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (2)\\chap1\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (2)\\chap1\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (2)\\chap1\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (2)\\chap1\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (2)\\chap1\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (2)\\chap1\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (2)\\chap1\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (2)\\chap1\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (2)\\chap1\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (2)\\chap1\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (2)\\chap2\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (2)\\chap2\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (2)\\chap2\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (2)\\chap2\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (2)\\chap2\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (2)\\chap2\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (2)\\chap2\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (2)\\chap2\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (2)\\chap2\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (2)\\chap2\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (2)\\chap2\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (2)\\chap2\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (2)\\chap3\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (2)\\chap3\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (2)\\chap3\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (2)\\chap3\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (2)\\chap3\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (2)\\chap3\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (2)\\chap3\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (2)\\chap3\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (2)\\chap3\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (2)\\chap3\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (2)\\chap3\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (2)\\chap3\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (3)\\0.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (3)\\0.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (3)\\chap1\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (3)\\chap1\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (3)\\chap1\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (3)\\chap1\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (3)\\chap1\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (3)\\chap1\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (3)\\chap1\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (3)\\chap1\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (3)\\chap1\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (3)\\chap1\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (3)\\chap1\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (3)\\chap1\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (3)\\chap2\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (3)\\chap2\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (3)\\chap2\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (3)\\chap2\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (3)\\chap2\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (3)\\chap2\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (3)\\chap2\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (3)\\chap2\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (3)\\chap2\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (3)\\chap2\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (3)\\chap2\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (3)\\chap2\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (3)\\chap3\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (3)\\chap3\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (3)\\chap3\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (3)\\chap3\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (3)\\chap3\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (3)\\chap3\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (3)\\chap3\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (3)\\chap3\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (3)\\chap3\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (3)\\chap3\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (3)\\chap3\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (3)\\chap3\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (4)\\0.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (4)\\0.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (4)\\chap1\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (4)\\chap1\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (4)\\chap1\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (4)\\chap1\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (4)\\chap1\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (4)\\chap1\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (4)\\chap1\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (4)\\chap1\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (4)\\chap1\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (4)\\chap1\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (4)\\chap1\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (4)\\chap1\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (4)\\chap2\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (4)\\chap2\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (4)\\chap2\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (4)\\chap2\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (4)\\chap2\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (4)\\chap2\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (4)\\chap2\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (4)\\chap2\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (4)\\chap2\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (4)\\chap2\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (4)\\chap2\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (4)\\chap2\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (4)\\chap3\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (4)\\chap3\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (4)\\chap3\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (4)\\chap3\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (4)\\chap3\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (4)\\chap3\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (4)\\chap3\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (4)\\chap3\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (4)\\chap3\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (4)\\chap3\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (4)\\chap3\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (4)\\chap3\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\0.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\0.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy\\0.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy\\0.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy\\chap1\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy\\chap1\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy\\chap1\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy\\chap1\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy\\chap1\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy\\chap1\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy\\chap1\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy\\chap1\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy\\chap1\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy\\chap1\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy\\chap1\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy\\chap1\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy\\chap2\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy\\chap2\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy\\chap2\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy\\chap2\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy\\chap2\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy\\chap2\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy\\chap2\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy\\chap2\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy\\chap2\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy\\chap2\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy\\chap2\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy\\chap2\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy\\chap3\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy\\chap3\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy\\chap3\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy\\chap3\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy\\chap3\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy\\chap3\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy\\chap3\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy\\chap3\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy\\chap3\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy\\chap3\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin - Copy\\chap3\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy\\chap3\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin\\0.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin\\0.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin\\chap1\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin\\chap1\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin\\chap1\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin\\chap1\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin\\chap1\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin\\chap1\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin\\chap1\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin\\chap1\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin\\chap1\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin\\chap1\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin\\chap1\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin\\chap1\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin\\chap2\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin\\chap2\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin\\chap2\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin\\chap2\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin\\chap2\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin\\chap2\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin\\chap2\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin\\chap2\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin\\chap2\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin\\chap2\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin\\chap2\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin\\chap2\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin\\chap3\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin\\chap3\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin\\chap3\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin\\chap3\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin\\chap3\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin\\chap3\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin\\chap3\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin\\chap3\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin\\chap3\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin\\chap3\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Quỷ kiếm darkin\\chap3\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin\\chap3\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2) - Copy\\0.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2) - Copy\\0.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2) - Copy\\chap1\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2) - Copy\\chap1\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2) - Copy\\chap1\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2) - Copy\\chap1\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2) - Copy\\chap1\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2) - Copy\\chap1\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2) - Copy\\chap1\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2) - Copy\\chap1\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2) - Copy\\chap1\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2) - Copy\\chap1\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2) - Copy\\chap1\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2) - Copy\\chap1\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2) - Copy\\chap2\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2) - Copy\\chap2\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2) - Copy\\chap2\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2) - Copy\\chap2\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2) - Copy\\chap2\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2) - Copy\\chap2\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2) - Copy\\chap2\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2) - Copy\\chap2\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2) - Copy\\chap2\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2) - Copy\\chap2\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2) - Copy\\chap2\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2) - Copy\\chap2\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2) - Copy\\chap3\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2) - Copy\\chap3\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2) - Copy\\chap3\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2) - Copy\\chap3\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2) - Copy\\chap3\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2) - Copy\\chap3\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2) - Copy\\chap3\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2) - Copy\\chap3\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2) - Copy\\chap3\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2) - Copy\\chap3\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2) - Copy\\chap3\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2) - Copy\\chap3\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2)\\0.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2)\\0.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2)\\chap1\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2)\\chap1\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2)\\chap1\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2)\\chap1\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2)\\chap1\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2)\\chap1\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2)\\chap1\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2)\\chap1\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2)\\chap1\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2)\\chap1\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2)\\chap1\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2)\\chap1\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2)\\chap2\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2)\\chap2\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2)\\chap2\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2)\\chap2\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2)\\chap2\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2)\\chap2\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2)\\chap2\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2)\\chap2\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2)\\chap2\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2)\\chap2\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2)\\chap2\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2)\\chap2\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2)\\chap3\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2)\\chap3\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2)\\chap3\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2)\\chap3\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2)\\chap3\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2)\\chap3\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2)\\chap3\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2)\\chap3\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2)\\chap3\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2)\\chap3\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (2)\\chap3\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2)\\chap3\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (3) - Copy\\0.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (3) - Copy\\0.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (3) - Copy\\chap1\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (3) - Copy\\chap1\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (3) - Copy\\chap1\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (3) - Copy\\chap1\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (3) - Copy\\chap1\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (3) - Copy\\chap1\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (3) - Copy\\chap1\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (3) - Copy\\chap1\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (3) - Copy\\chap1\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (3) - Copy\\chap1\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (3) - Copy\\chap1\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (3) - Copy\\chap1\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (3) - Copy\\chap2\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (3) - Copy\\chap2\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (3) - Copy\\chap2\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (3) - Copy\\chap2\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (3) - Copy\\chap2\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (3) - Copy\\chap2\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (3) - Copy\\chap2\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (3) - Copy\\chap2\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (3) - Copy\\chap2\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (3) - Copy\\chap2\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (3) - Copy\\chap2\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (3) - Copy\\chap2\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (3) - Copy\\chap3\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (3) - Copy\\chap3\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (3) - Copy\\chap3\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (3) - Copy\\chap3\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (3) - Copy\\chap3\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (3) - Copy\\chap3\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (3) - Copy\\chap3\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (3) - Copy\\chap3\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (3) - Copy\\chap3\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (3) - Copy\\chap3\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (3) - Copy\\chap3\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (3) - Copy\\chap3\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (4) - Copy\\0.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (4) - Copy\\0.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (4) - Copy\\chap1\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (4) - Copy\\chap1\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (4) - Copy\\chap1\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (4) - Copy\\chap1\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (4) - Copy\\chap1\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (4) - Copy\\chap1\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (4) - Copy\\chap1\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (4) - Copy\\chap1\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (4) - Copy\\chap1\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (4) - Copy\\chap1\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (4) - Copy\\chap1\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (4) - Copy\\chap1\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (4) - Copy\\chap2\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (4) - Copy\\chap2\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (4) - Copy\\chap2\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (4) - Copy\\chap2\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (4) - Copy\\chap2\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (4) - Copy\\chap2\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (4) - Copy\\chap2\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (4) - Copy\\chap2\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (4) - Copy\\chap2\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (4) - Copy\\chap2\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (4) - Copy\\chap2\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (4) - Copy\\chap2\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (4) - Copy\\chap3\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (4) - Copy\\chap3\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (4) - Copy\\chap3\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (4) - Copy\\chap3\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (4) - Copy\\chap3\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (4) - Copy\\chap3\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (4) - Copy\\chap3\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (4) - Copy\\chap3\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (4) - Copy\\chap3\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (4) - Copy\\chap3\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (4) - Copy\\chap3\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (4) - Copy\\chap3\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (5) - Copy\\0.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (5) - Copy\\0.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (5) - Copy\\chap1\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (5) - Copy\\chap1\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (5) - Copy\\chap1\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (5) - Copy\\chap1\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (5) - Copy\\chap1\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (5) - Copy\\chap1\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (5) - Copy\\chap1\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (5) - Copy\\chap1\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (5) - Copy\\chap1\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (5) - Copy\\chap1\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (5) - Copy\\chap1\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (5) - Copy\\chap1\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (5) - Copy\\chap2\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (5) - Copy\\chap2\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (5) - Copy\\chap2\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (5) - Copy\\chap2\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (5) - Copy\\chap2\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (5) - Copy\\chap2\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (5) - Copy\\chap2\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (5) - Copy\\chap2\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (5) - Copy\\chap2\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (5) - Copy\\chap2\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (5) - Copy\\chap2\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (5) - Copy\\chap2\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (5) - Copy\\chap3\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (5) - Copy\\chap3\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (5) - Copy\\chap3\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (5) - Copy\\chap3\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (5) - Copy\\chap3\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (5) - Copy\\chap3\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (5) - Copy\\chap3\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (5) - Copy\\chap3\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (5) - Copy\\chap3\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (5) - Copy\\chap3\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (5) - Copy\\chap3\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (5) - Copy\\chap3\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (6) - Copy\\0.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (6) - Copy\\0.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (6) - Copy\\chap1\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (6) - Copy\\chap1\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (6) - Copy\\chap1\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (6) - Copy\\chap1\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (6) - Copy\\chap1\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (6) - Copy\\chap1\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (6) - Copy\\chap1\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (6) - Copy\\chap1\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (6) - Copy\\chap1\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (6) - Copy\\chap1\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (6) - Copy\\chap1\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (6) - Copy\\chap1\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (6) - Copy\\chap2\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (6) - Copy\\chap2\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (6) - Copy\\chap2\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (6) - Copy\\chap2\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (6) - Copy\\chap2\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (6) - Copy\\chap2\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (6) - Copy\\chap2\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (6) - Copy\\chap2\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (6) - Copy\\chap2\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (6) - Copy\\chap2\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (6) - Copy\\chap2\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (6) - Copy\\chap2\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (6) - Copy\\chap3\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (6) - Copy\\chap3\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (6) - Copy\\chap3\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (6) - Copy\\chap3\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (6) - Copy\\chap3\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (6) - Copy\\chap3\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (6) - Copy\\chap3\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (6) - Copy\\chap3\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (6) - Copy\\chap3\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (6) - Copy\\chap3\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy (6) - Copy\\chap3\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (6) - Copy\\chap3\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy\\0.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy\\0.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy\\chap1\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy\\chap1\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy\\chap1\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy\\chap1\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy\\chap1\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy\\chap1\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy\\chap1\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy\\chap1\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy\\chap1\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy\\chap1\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy\\chap1\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy\\chap1\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy\\chap2\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy\\chap2\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy\\chap2\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy\\chap2\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy\\chap2\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy\\chap2\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy\\chap2\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy\\chap2\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy\\chap2\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy\\chap2\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy\\chap2\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy\\chap2\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy\\chap3\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy\\chap3\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy\\chap3\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy\\chap3\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy\\chap3\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy\\chap3\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy\\chap3\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy\\chap3\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy\\chap3\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy\\chap3\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế - Copy\\chap3\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy\\chap3\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế\\0.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế\\0.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế\\chap1\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế\\chap1\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế\\chap1\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế\\chap1\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế\\chap1\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế\\chap1\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế\\chap1\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế\\chap1\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế\\chap1\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế\\chap1\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế\\chap1\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế\\chap1\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế\\chap2\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế\\chap2\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế\\chap2\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế\\chap2\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế\\chap2\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế\\chap2\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế\\chap2\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế\\chap2\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế\\chap2\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế\\chap2\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế\\chap2\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế\\chap2\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế\\chap3\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế\\chap3\\1.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế\\chap3\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế\\chap3\\2.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế\\chap3\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế\\chap3\\3.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế\\chap3\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế\\chap3\\4.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế\\chap3\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế\\chap3\\5.jpg"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\comic\\Ta là tà đế\\chap3\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế\\chap3\\6.JPG"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\css\\DangNhap.css",
+      "PackagePath": "staticwebassets\\css\\DangNhap.css"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\STD\\Git file\\WebTrom - 2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebTruyen.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebTruyen.props",
+      "PackagePath": "build\\WebTruyen.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebTruyen.props",
+      "PackagePath": "buildMultiTargeting\\WebTruyen.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebTruyen.props",
+      "PackagePath": "buildTransitive\\WebTruyen.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

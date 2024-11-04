@@ -1,0 +1,98 @@
+﻿/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a {
+  color: #0077cc;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+
+.logo {
+    height: 40px; /* Điều chỉnh chiều cao của logo */
+    margin-right: 10px; /* Khoảng cách giữa logo và nút "Thể loại" */
+}
+
+.TimTruyen {
+    padding: 5px; /* Padding cho ô tìm truyện */
+    border: 1px solid #ccc; /* Khung cho ô tìm truyện */
+    border-radius: 4px; /* Bo góc cho ô tìm truyện */
+}
+
+.input-group {
+    width: 100%; /* Đảm bảo input group chiếm toàn bộ không gian */
+}
+
+    .input-group .btn {
+        margin-left: -1px; /* Đẩy nút vào sát ô tìm kiếm */
+    }
+
+.d-flex {
+    margin-left: auto; /* Đẩy các nút Đăng nhập và Đăng xuất sang bên phải */
+}
+
+.nav-item {
+    margin-left: 10px; /* Khoảng cách giữa các nút điều hướng */
+}
+
+.copyright {
+    display: flex;
+    justify-content: center; /* Căn giữa theo chiều ngang */
+    align-items: center; /* Căn giữa theo chiều dọc */
+    flex-wrap: wrap; /* Cho phép các phần tử xuống dòng nếu không đủ không gian */
+    text-align: center; /* Căn giữa chữ */
+    gap: 15px; /* Khoảng cách giữa các phần tử */
+}
+
+.link {
+    margin: 0; /* Xóa khoảng cách mặc định */
+}
+
+    /* Tùy chọn: Thay đổi kiểu cho các liên kết */
+    .link a {
+        text-decoration: none;
+        color: #007bff; /* Màu sắc của liên kết */
+    }
+
+        .link a:hover {
+            text-decoration: underline; /* Gạch chân khi hover */
+        }

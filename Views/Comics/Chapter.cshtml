@@ -1,0 +1,78 @@
+﻿@model dynamic
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@Model.Title - @Model.Chapter</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .image-container {
+            margin: 20px auto;
+            max-width: 90%;
+        }
+
+            .image-container img {
+                width: 100%;
+                height: auto;
+            }
+
+        .navigation {
+            margin-top: 20px;
+        }
+
+        .nav-button {
+            padding: 10px 20px;
+            margin: 0 10px;
+            background-color: #333;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+        }
+
+        .chapter-list-button {
+            margin: 20px;
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: rgba(40, 40, 43, 0.8);
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>@Model.Title - @Model.Chapter</h1>
+
+    <div class="image-container">
+        @foreach (var image in Model.Images)
+        {
+            <img src="/comic/@Model.Title/@Model.Chapter/@image" alt="@Model.Title - @Model.Chapter" />
+        }
+    </div>
+
+    <div class="navigation">
+        <button class="nav-button" onclick="location.href='/Comics/Chapter?title=@Model.Title&chapter=chap@(Model.CurrentChapterIndex - 1)'"
+        @(Model.CurrentChapterIndex == 1 ? "disabled" : "")>
+            Chap trước
+        </button>
+
+        <button class="nav-button" onclick="location.href='/Comics/Chapter?title=@Model.Title&chapter=chap@(Model.CurrentChapterIndex + 1)'"
+        @(Model.Images.Count == 0 ? "disabled" : "")>
+            Chap tiếp theo
+        </button>
+    </div>
+
+    <button class="chapter-list-button" onclick="location.href='/Comics/Detail?title=@Model.Title'">Danh sách Chap</button>
+</body>
+</html>

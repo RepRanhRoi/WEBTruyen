@@ -1,0 +1,65 @@
+﻿@model WebTruyen.Models.Comic
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@Model.Title - Chi tiết truyện</title>
+    <style>
+        .comic-detail {
+            text-align: center;
+            margin: 20px auto;
+            width: 80%;
+        }
+
+            .comic-detail img {
+                width: 200px;
+                height: auto;
+                margin-bottom: 20px;
+            }
+
+        .comic-info {
+            margin-bottom: 30px;
+        }
+
+        .chapter-list {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 10px;
+            text-align: left;
+        }
+
+        .chapter-item {
+            padding: 10px;
+            background-color: #f1f1f1;
+            border-radius: 5px;
+        }
+
+            .chapter-item a {
+                text-decoration: none;
+                color: #333;
+            }
+    </style>
+</head>
+<body>
+    <div class="comic-detail">
+        <img src="@Model.Cover" alt="@Model.Title" />
+        <div class="comic-info">
+            <h1>@Model.Title</h1>
+            <p>Chap mới nhất: @Model.LatestChap</p>
+            <p>Giới thiệu ngắn: Đây là mô tả ngắn về truyện...</p> <!-- Bạn có thể thay đổi phần này theo nhu cầu -->
+        </div>
+
+        <div class="chapter-list">
+            @foreach (var chapter in Model.Chapters)
+            {
+                <div class="chapter-item">
+                    <a href="/Comics/Chapter?title=@Model.Title&chapter=@chapter">@chapter</a>
+                </div>
+            }
+        </div>
+
+    </div>
+</body>
+</html>
