@@ -181,23 +181,38 @@
    
     <script>
         let currentIndex = 0;
-        const totalItems = document.querySelectorAll('.carousel-inner .comic-item').length;
-        const itemsPerView = 8;
-        const itemWidth = 12.5; // Percentage width of each item (100% / 8 items per view)
+        const comicItems = document.querySelectorAll('.carousel-inner .comic-item');
+        const totalItems = comicItems.length;
+        const itemsPerView = 8; // Số lượng ảnh hiển thị
+        const itemWidth = comicItems[0].offsetWidth; // Chiều rộng của mỗi ảnh trong pixel
 
         function moveSlide(direction) {
-            // Update currentIndex with wrap-around behavior
-            currentIndex += direction;
-            if (currentIndex < 0) {
-                currentIndex = totalItems - itemsPerView;
-            } else if (currentIndex > totalItems - itemsPerView) {
-                currentIndex = 0;
+            // Cập nhật currentIndex với hành vi wrap-around
+            if (direction > 0) { // Di chuyển sang phải
+                if (currentIndex < totalItems - itemsPerView) {
+                    currentIndex += direction;
+                } else {
+                    // Nếu đã đến cuối, quay lại đầu
+                    currentIndex = 0;
+                }
+            } else if (direction < 0) { // Di chuyển sang trái
+                if (currentIndex > 0) {
+                    currentIndex += direction;
+                } else {
+                    // Nếu đã đến đầu, quay lại cuối
+                    currentIndex = totalItems - itemsPerView;
+                }
             }
 
-            // Slide by adjusting the transform property based on current index
-            document.querySelector('.carousel-inner').style.transform = `translateX(-${currentIndex * itemWidth}%)`;
+            // Tính toán giá trị translateX theo pixel
+            const translateX = currentIndex * itemWidth;
+
+            // Áp dụng giá trị translateX
+            document.querySelector('.carousel-inner').style.transform = `translateX(-${translateX}px)`;
         }
 
+        // Gọi hàm để thiết lập trạng thái ban đầu
+        moveSlide(0); // Chỉ cần gọi hàm này để khởi động ban đầu
         document.addEventListener("DOMContentLoaded", function () {
             const copyElements = document.querySelectorAll('.copy_xxN7');
             let maxHeight = 0;

@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\TN\\.nuget\\packages\\": {}
+    "C:\\Users\\MACON\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\STD\\Git file\\WebTrom - 2\\WebTruyen.csproj",
+      "projectUniqueName": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\WebTruyen.csproj",
       "projectName": "WebTruyen",
-      "projectPath": "D:\\STD\\Git file\\WebTrom - 2\\WebTruyen.csproj",
-      "packagesPath": "C:\\Users\\TN\\.nuget\\packages\\",
-      "outputPath": "D:\\STD\\Git file\\WebTrom - 2\\obj\\",
+      "projectPath": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\WebTruyen.csproj",
+      "packagesPath": "C:\\Users\\MACON\\.nuget\\packages\\",
+      "outputPath": "C:\\Cong nghe web\\New folder (2)\\WEBTruyen\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\TN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MACON\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -70,7 +75,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
