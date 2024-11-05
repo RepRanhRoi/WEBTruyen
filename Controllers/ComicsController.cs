@@ -107,13 +107,18 @@ namespace WebTruyen.Controllers
         public IActionResult Search(string query)
         {
             var comics = new List<Comic>();
-            var cmcs = new List<string>();
 
+            // Kiểm tra xem query có rỗng không
+            if (string.IsNullOrWhiteSpace(query))
+            {
+                ViewBag.Message = "Vui lòng nhập từ khóa tìm kiếm.";
+                return RedirectToAction("Index", "Comics");
+            }
 
             using (var connection = new SqlConnection(_connectionString))
             {
                 connection.Open();
-                using (var command = new SqlCommand("SELECT TENTRUYEN FROM TRUYEN WHERE TENTRUYEN LIKE %@tentruyen%", connection))
+                using (var command = new SqlCommand("SELECT TENTRUYEN FROM TRUYEN WHERE TENTRUYEN LIKE '%' + @tentruyen + '%'", connection))
                 {
                     command.Parameters.AddWithValue("@tentruyen", query);
 
@@ -121,35 +126,34 @@ namespace WebTruyen.Controllers
                     {
                         while (reader.Read())
                         {
-                            cmcs.Add(reader.GetString(0));
+                            var title = reader.GetString(0);
+                            var coverPath = Path.Combine(_comicsDirectory, title, "0.jpg"); // Giả định hình ảnh bìa có tên là 0.jpg
+
+                            // Kiểm tra xem đường dẫn có tồn tại không
+                            if (System.IO.File.Exists(coverPath))
+                            {
+                                comics.Add(new Comic
+                                {
+                                    Title = title,
+                                    Cover = $"/comic/{title}/0.jpg" // Đường dẫn hình ảnh bìa
+                                });
+                            }
                         }
-                        connection.Close();
+                        
                     }
                 }
+                connection.Close();
             }
-            foreach (var item in cmcs)
+
+            if (!comics.Any())
             {
-                var path = Path.Combine(_comicsDirectory, item);
-                if (!Directory.Exists(path))
-                {
-
-                }
-                else
-                {
-                    Comic comic = new Comic
-                    {
-                        Title = item,
-                        Cover = $"/comic/{item}/0.jpg",
-
-                    };
-                    comics.Add(comic);
-                }
-
-              
+                ViewBag.Message = "Không tìm thấy truyện nào phù hợp với từ khóa.";
             }
 
-            return View("_SearchResults", comics);
-
+            return PartialView("_SearchResults", comics);
         }
+
+
+
     }
 }

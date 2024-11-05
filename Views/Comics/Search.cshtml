@@ -1,0 +1,8 @@
+﻿@model IEnumerable<WebTruyen.Models.Comic>
+
+<ul>
+    @foreach (var comic in Model)
+    {
+        <li>@comic.Title</li>
+    }
+</ul>

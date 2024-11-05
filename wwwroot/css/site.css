@@ -177,3 +177,12 @@ body {
 .comic-list-item p {
     margin: 0; /* Loại bỏ khoảng cách mặc định */
 }
+#searchResults li {
+    list-style: none;
+    padding: 5px;
+}
+
+    #searchResults li:not(.comic-list-item) {
+        color: red;
+        font-weight: bold;
+    }

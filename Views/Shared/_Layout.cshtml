@@ -1,4 +1,5 @@
-﻿@model IEnumerable<WebTruyen.Models.Comic>
+﻿
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,7 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - WebTruyen</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/lib/font-awesome/css/font-awesome.min.css" /> <!-- Thêm Font Awesome -->
+    
+
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/WebTruyen.styles.css" asp-append-version="true" />
 
@@ -19,17 +21,15 @@
                     <img class="logo" style="height:20px; width:100px;" src="https://nettruyenww.com/public/assets/images/logo-nettruyen.png" alt="Logo" />
                     <a class="nav-link text-dark" asp-area="" asp-controller="Comics" asp-action="Index">Thể loại</a>
                 </div>
+                <!-- Thêm thanh tìm kiếm vào đây -->
                 <div class="flex-grow-1 d-flex justify-content-center">
-                    <div class="input-group" style="max-width: 400px;">
-                        <!-- Chiều rộng tối đa cho ô tìm kiếm -->
-                        <input type="text" name="name"  class="form-control TimTruyen" placeholder="Tìm truyện..." autocomplete="off" />
-                        <button class="search btn-outline-secondary"  type="button" id="searchButton">
+                    <div class="input-group" style="max-width: 400px; position: relative;">
+                        <input type="text" name="name" class="form-control TimTruyen" placeholder="Tìm truyện..." autocomplete="off" />
+                        <button class="search btn-outline-secondary" type="button" id="searchButton">
                             <img style="height:20px; width:20px;" src="~/icon-search/search-icon-free-vector.jpg" />
                         </button>
-                        <div class="search_result" style="display:none" id="search">
-                            <ul id="searchResults">
-                               
-                            </ul>
+                        <div class="search_result" style="display:none; position: absolute; top:100%; left: 0; right: 0; background-color: white; border: 1px solid #ddd; max-height: 200px; overflow-y: auto;" id="search">
+                            <ul id="searchResults"></ul>
                         </div>
                     </div>
                 </div>
@@ -80,20 +80,31 @@
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     <script>
-        // Thêm sự kiện click cho nút tìm kiếm
         document.getElementById("searchButton").addEventListener("click", function () {
-            var div = document.getElementById("search");
+            var searchQuery = document.querySelector(".TimTruyen").value;
+            var resultDiv = document.getElementById("search");
 
-            // Kiểm tra trạng thái hiển thị của div
-            if (div.style.display === "none" || div.style.display === "") {
-                div.style.display = "block"; // Hiển thị div nếu nó ẩn
-            } else {
-                div.style.display = "none"; // Ẩn div nếu nó đang hiển thị
-            }
+            fetch(`/Comics/Search?query=${encodeURIComponent(searchQuery)}`)
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById("searchResults").innerHTML = data; // Đổ nội dung Search.cshtml vào
+                    resultDiv.style.display = "block"; // Hiển thị div kết quả
+                })
+                .catch(error => {
+                    console.error("Lỗi khi tìm kiếm:", error);
+                    resultDiv.style.display = "none"; // Ẩn div nếu có lỗi
+                });
         });
 
-      
+        // Ẩn kết quả khi click ra ngoài
+        document.addEventListener("click", function (event) {
+            var resultDiv = document.getElementById("search");
+            if (!resultDiv.contains(event.target) && !event.target.classList.contains("TimTruyen")) {
+                resultDiv.style.display = "none";
+            }
+        });
     </script>
+
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
